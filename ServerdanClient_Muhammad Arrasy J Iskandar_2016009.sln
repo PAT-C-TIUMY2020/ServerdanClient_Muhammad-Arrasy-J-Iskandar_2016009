@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Muhammad Arrasy J Iskandar_2016009", "Client_Muhammad Arrasy J Iskandar_2016009\Client_Muhammad Arrasy J Iskandar_2016009.csproj", "{4920809A-5A60-42B5-8E9B-EB3851EF871B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Muhammad Arrasy J Iskandar_2016009", "Server_Muhammad Arrasy J Iskandar_2016009\Server_Muhammad Arrasy J Iskandar_2016009.csproj", "{1ED81C6F-7341-4A90-A808-D0597D766789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4920809A-5A60-42B5-8E9B-EB3851EF871B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4920809A-5A60-42B5-8E9B-EB3851EF871B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4920809A-5A60-42B5-8E9B-EB3851EF871B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4920809A-5A60-42B5-8E9B-EB3851EF871B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED81C6F-7341-4A90-A808-D0597D766789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED81C6F-7341-4A90-A808-D0597D766789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED81C6F-7341-4A90-A808-D0597D766789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED81C6F-7341-4A90-A808-D0597D766789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7BCC8D-E5B0-477D-90CC-5F3198CC21DA}
+	EndGlobalSection
+EndGlobal
